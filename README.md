@@ -1,2 +1,2 @@
 # Gation
-Electron-based application with Next.js and React for software organization using Scrum methodology, aimed at assisting software engineers.
+Qt aplication for simplify my arch linux setup using I3wm, to be fair, its just a GUI application for hardware management with QT C++ and some linux shell.
